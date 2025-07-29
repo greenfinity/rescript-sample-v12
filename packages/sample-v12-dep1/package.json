@@ -7,6 +7,9 @@
     "yarn": ">=4.5.3"
   },
   "devDependencies": {
+    "@dusty-phillips/rescript-zora": "^5.0.1",
+    "@rescript/core": "^1.6.1",
+    "@rescript/tools": "^0.6.6",
     "rescript": "^12.0.0-beta.3"
   },
   "packageManager": "yarn@4.5.3",
