@@ -1,0 +1,23 @@
+{
+  "name": "sample-v12-app",
+  "sources": [],
+  "jsx": {
+    "version": 4,
+    "mode": "classic"
+  },
+  "warnings": {
+    "number": "-101"
+  },
+  "suffix": ".bs.mjs",
+  "namespace": true,
+  "bsc-flags": [],
+  "package-specs": [
+    {
+      "module": "esmodule",
+      "in-source": true
+    }
+  ],
+  "bs-dependencies": ["sample-v12-dep1"],
+  "bs-dev-dependencies": [],
+  "ppx-flags": []
+}
