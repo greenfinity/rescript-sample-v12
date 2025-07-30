@@ -4,6 +4,11 @@
     {
       "dir": "app",
       "subdirs": true
+    },
+    {
+      "dir": "__tests__",
+      "subdirs": true,
+      "dev": true
     }
   ],
   "jsx": {
